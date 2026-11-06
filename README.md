@@ -78,6 +78,7 @@ psql -d retail_analytics -U your_username -f queries.sql
 
 ```
 2. Via GUI Clients (Windows)
+
 **pgAdmin 4:**
 Open queries.sql in the Query Tool window.
 - Highlight/select the specific query block you want to execute.
